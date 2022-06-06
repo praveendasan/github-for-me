@@ -18,10 +18,10 @@ jobs:
           body:
             ### Agenda
             
-             - [ ] Start the recording
-             - [ ] Check-ins
-             - [ ] Discussion points
-             - [ ] Post the recording
+              - [ ] Start the recording
+              - [ ] Check-ins
+              - [ ] Discussion points
+              - [ ] Post the recording
              
              ### Discussion Points
              Add things to discuss below
