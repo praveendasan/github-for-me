@@ -15,9 +15,8 @@ jobs:
           assignees: "praveendasan"
           labels: "bug"
           title: "Weekly Team sync"
-          body:
+          body: |
             ### Agenda
-            
               - [ ] Start the recording
               - [ ] Check-ins
               - [ ] Discussion points
