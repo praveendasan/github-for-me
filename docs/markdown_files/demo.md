@@ -1,3 +1,3 @@
 # demo md
 
-[link](https://googleadfadfsdfasdfasdfadsfasd.com)
+[link](https://google.com)
